@@ -17,6 +17,9 @@ The Weather App is a web application that provides real-time weather information
 - jQuery
 - Moment.js
 
+HTML: Markup language used for structuring the web page.
+CSS: Stylesheet language used for styling the appearance of the web page.
+JavaScript: Programming language used for adding interactivity to the web page.
 
 
 
